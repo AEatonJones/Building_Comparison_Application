@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UL-Building App</string>
+    <string name="logo">logo</string>
+    <string name="string">string</string>
+    <string name="button">Button</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="history">History</string>
+    <string name="quit">Quit</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="results">RESULTS</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="history_text">HISTORY</string>
+    <string name="loading">LOADING</string>
+    <string name="loading_message">Please wait while the result is being calculated.</string>
+    <string name="todo">TODO</string>
+    <string name="building_recognition_app">Building Recognition App</string>
+    <string name="imageresult">ImageResult</string>
+    <string name="information">Information</string>
+    <string name="locations">Locations</string>
+    <string name="locationsTitle">LOCATIONS</string>
+    <string name="main_menuButton">Main Menu</string>
+    <string name="tierney_building">Tierney Building</string>
+    <string name="glucksman_library">Glucksman Library</string>
+    <string name="p_e_s_s_building">P.E.S.S. Building</string>
+    <string name="c_s_i_s_building">C.S.I.S. Building</string>
+    <string name="schuman_building">Schuman Building</string>
+    <string name="kemmy_business_school">Kemmy Business School</string>
+    <string name="google_maps">Google Maps</string>
+    <string name="building_information">BUILDING INFORMATION</string>
+    <string name="go_back">go Back</string>
+</resources>
